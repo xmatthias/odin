@@ -30,7 +30,7 @@ but keeping all the good and minimalistic features of Casper.
 * [Font Awesome](http://fontawesome.io) home page Social Link Icons (easily configurable by code injection in the admin area)
 
 ### Demo
-I've created and I use this theme for my personal blog at [blog.h4t0n.com](https://blog.h4t0n.com).
+I've created and I use this theme for my personal blog at [blog.xmatthias.com](https://blog.xmatthias.com).
 
 ## Installation
 Installation is the same as other themes, so clone or download the content of this repo inside your Ghost `content/themes/` folder.
@@ -38,7 +38,7 @@ Installation is the same as other themes, so clone or download the content of th
 ```
 # for example
 $ cd /your-ghost-root-directory
-$ git clone https://github.com/h4t0n/odin.git content/themes/odin
+$ git clone https://github.com/xmatthias/odin.git content/themes/odin
 ```
 
 Restart Ghost and select Odin theme from your Admin Area.
