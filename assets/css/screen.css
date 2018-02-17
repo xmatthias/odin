@@ -1203,6 +1203,7 @@ body:not(.post-template) .post-title {
 .post-head.main-header {
     height: 65vh;
     min-height: 180px;
+    max-height: 500px;
 }
 
 .no-cover.post-head.main-header {
